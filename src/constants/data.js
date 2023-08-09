@@ -3,37 +3,37 @@ import images from './images';
 const data = {
   wines: [
     {
-      title: 'Chapel Hill Shiraz',
-      price: '$56',
+      title: 'Chateau Soussans, 2016',
+      price: '$190',
+      tags: 'FR | Bottle',
+    },
+    {
+      title: 'Stella Bella Suckfizzle Cabernet Sauvignon, 2016',
+      price: '$190',
       tags: 'AU | Bottle',
     },
     {
-      title: 'Catena Malbee',
-      price: '$59',
-      tags: 'AU | Bottle',
-    },
-    {
-      title: 'La Vieillw Rose',
-      price: '$44',
+      title: 'Raats Family Wines Cabernet Franc, 2017',
+      price: '$158',
       tags: 'FR | 750 ml',
     },
     {
-      title: 'Rhino Pale Ale',
-      price: '$31',
-      tags: 'CA | 750 ml',
+      title: 'Harvey\'s Sussex Best',
+      price: '$129',
+      tags: 'EN | 750 ml',
     },
     {
       title: 'Irish Guinness',
-      price: '$26',
+      price: '$134',
       tags: 'IE | 750 ml',
     },
   ],
 
   cocktails: [
     {
-      title: 'Aperol Sprtiz',
-      price: '$20',
-      tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+      title: 'Aperol Spritz',
+      price: '$12',
+      tags: 'Aperol | Villa Marchesi Prosecco | Soda | 30 ml',
     },
     {
       title: "Dark 'N' Stormy",
@@ -42,18 +42,18 @@ const data = {
     },
     {
       title: 'Daiquiri',
-      price: '$10',
-      tags: 'Rum | Citrus juice | Sugar',
+      price: '$12',
+      tags: 'Rum | Citrus Juice | Sugar',
     },
     {
       title: 'Old Fashioned',
-      price: '$31',
-      tags: 'Bourbon | Brown sugar | Angostura Bitters',
+      price: '$16',
+      tags: 'Bourbon | Brown Sugar | Angostura Bitters',
     },
     {
       title: 'Negroni',
-      price: '$26',
-      tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+      price: '$14',
+      tags: 'Gin | Sweet Vermouth | Campari | Orange Garnish',
     },
   ],
 

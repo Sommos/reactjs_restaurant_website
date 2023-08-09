@@ -25,11 +25,10 @@ const AboutUs = () => (
           className="spoon__img"
         />
         <p className="p__opensans">
-          At 'The Key to Fine Dining', we are passionate about crafting exceptional
-          gastronomic experiences that transcend the ordinary. With a commitment to
-          culinary excellence and a dedication to creating unforgettable moments,
-          we invite you to indulge in a world of flavors, elegance, and unparalleled
-          service.
+        Established with a visionary spirit in 2007, Gericht embarked on a
+        transformative path, blending tradition and innovation. Evolving
+        over time, we've forged a legacy of exceptional dining, honoring
+        the art of flavor and hospitality.
         </p>
         <button
           type="button"
@@ -54,10 +53,9 @@ const AboutUs = () => (
           className="spoon__img"
         />
         <p className="p__opensans">
-        Founded with a vision to redefine dining, 'Gericht' opened its
-        doors in 2007, setting the stage for a journey that marries tradition with
-        innovation. Since then, we have continuously evolved, curating a legacy of
-        exceptional dining that celebrates the art of flavor and hospitality.
+        Since 2007, 'Gericht' has redefined dining, harmonizing tradition and innovation.
+        Our ongoing evolution crafts an exceptional legacy, celebrating the art of flavor
+        and hospitality that began when our doors first opened.
         </p>
         <button
           type="button"
