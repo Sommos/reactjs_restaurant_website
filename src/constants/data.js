@@ -8,12 +8,12 @@ const data = {
       tags: 'FR | Bottle',
     },
     {
-      title: 'Stella Bella Suckfizzle Cabernet Sauvignon, 2016',
+      title: 'Stella Bella Suckfizzle Cabernet',
       price: '$190',
       tags: 'AU | Bottle',
     },
     {
-      title: 'Raats Family Wines Cabernet Franc, 2017',
+      title: 'Raats Family Wines Cabernet',
       price: '$158',
       tags: 'FR | 750 ml',
     },
@@ -59,24 +59,24 @@ const data = {
 
   awards: [
     {
-      imgUrl: images.award02,
-      title: 'Bib Gourmond',
-      subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
-    },
-    {
       imgUrl: images.award01,
       title: 'Rising Star',
-      subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+      subtitle: 'Culinary Innovation Shines with Vibrant Brilliance.',
     },
     {
-      imgUrl: images.award05,
-      title: 'AA Hospitality',
-      subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+      imgUrl: images.award02,
+      title: 'Bib Gourmond',
+      subtitle: 'Coveted Bib Gourmand: Excellence in Flavors.',
     },
     {
       imgUrl: images.award03,
       title: 'Outstanding Chef',
-      subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+      subtitle: 'Culinary Mastery: Outstanding Chef Inspires Palates.',
+    },
+    {
+      imgUrl: images.award05,
+      title: 'AA Hospitality',
+      subtitle: 'Distinguished Excellence: Culinary Mastery, Distinct Experience.',
     },
   ],
 };

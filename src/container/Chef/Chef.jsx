@@ -21,8 +21,23 @@ const Chef = () => (
             src={images.quote}
             alt="quote"
           />
-          <p className="p__opensans"></p>
+          <p className="p__opensans">
+            Crafting each dish is a symphony of passion and ingredients,
+          </p>
         </div>
+        <p className="p__opensans">
+         where flavors dance on the palate and memories are plated.
+         Embracing culinary artistry, our chef's quote encapsulates
+         the heart and soul we infuse into every creation at 'Gericht'.
+        </p>
+      </div>
+      <div className="app__chef-sign">
+        <p>Kevin Luo</p>
+        <p className="p__opensans">Chef & Founder</p>
+        <img
+          src={images.sign}
+          alt="sign"
+        />
       </div>
     </div>
   </div>
