@@ -6,8 +6,8 @@
     <img src="image_2.png" width="400" height="200" />
     <img src="image_3.png" width="400" height="200" />
     <img src="image_4.png" width="400" height="200" />
-    <img src="image_5.png" width="400" height="200" />
     <img src="image_6.png" width="400" height="200" />
+    <img src="image_5.png" width="800" />
     <img src="image_7.png" width="800" />
 </p>
 
