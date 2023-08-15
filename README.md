@@ -24,4 +24,4 @@ If you'd like to contribute to `reactjs_restaurant_website` please submit a pull
 Clone the repo:
 
     git clone https://github.com/Sommos/reactjs_restaurant_website
-    cd reactjs_travel_website
+    cd reactjs_restaurant_website
